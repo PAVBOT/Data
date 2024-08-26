@@ -275,13 +275,13 @@ what is a simile=A simile is a figure of speech that compares two unlike things 
 what is personification=Personification is a figure of speech that gives human qualities to non-human things.
 what is irony=Irony is a figure of speech where the intended meaning is different from the literal meaning.
 what is an idiom=An idiom is a phrase with a figurative meaning that cannot be understood from the individual words.
-what is a cliche=A cliché is an overused expression or idea.
+what is a cliche=A clichÃ© is an overused expression or idea.
 what is a dangling modifier=A dangling modifier is a phrase or clause that doesnt clearly modify any specific word in the sentence.
 what is a misplaced modifier=A misplaced modifier is a word or phrase that is placed too far away from the word it modifies, causing confusion.
 what is subject-verb agreement=Subject-verb agreement means that the subject and verb of a sentence must agree in number (singular or plural).
 what is pronoun-antecedent agreement=Pronoun-antecedent agreement means that a pronoun must agree in number and gender with the noun it refers to.
-what is a homophone=Homophones are words that sound the same but have different meanings and spellings (e.g., their, there, they’re).
-what is a homonym=Homonyms are words that have the same spelling but different meanings (e.g., bank – a financial institution, bank – the edge of a river).
+what is a homophone=Homophones are words that sound the same but have different meanings and spellings (e.g., their, there, theyÂ’re).
+what is a homonym=Homonyms are words that have the same spelling but different meanings (e.g., bank Â– a financial institution, bank Â– the edge of a river).
 what is a synonym=Synonyms are words with similar meanings.
 what is an antonym=Antonyms are words with opposite meanings.
 what is a thesaurus=A thesaurus is a book or electronic resource that lists synonyms and antonyms for words.
@@ -296,13 +296,13 @@ what is a simile=A simile is a figure of speech that compares two unlike things 
 what is personification=Personification is a figure of speech that gives human qualities to non-human things.
 what is irony=Irony is a figure of speech where the intended meaning is different from the literal meaning.
 what is an idiom=An idiom is a phrase with a figurative meaning that cannot be understood from the individual words.
-what is a cliche=A cliché is an overused expression or idea.
+what is a cliche=A clichÃ© is an overused expression or idea.
 what is a dangling modifier=A dangling modifier is a phrase or clause that doesnt clearly modify any specific word in the sentence.
 what is a misplaced modifier=A misplaced modifier is a word or phrase that is placed too far away from the word it modifies, causing confusion.
 what is subject-verb agreement=Subject-verb agreement means that the subject and verb of a sentence must agree in number (singular or plural).
 what is pronoun-antecedent agreement=Pronoun-antecedent agreement means that a pronoun must agree in number and gender with the noun it refers to.
-what is a homophone=Homophones are words that sound the same but have different meanings and spellings (e.g., their, there, they’re).
-what is a homonym=Homonyms are words that have the same spelling but different meanings (e.g., bank – a financial institution, bank – the edge of a river).
+what is a homophone=Homophones are words that sound the same but have different meanings and spellings (e.g., their, there, theyÂ’re).
+what is a homonym=Homonyms are words that have the same spelling but different meanings (e.g., bank Â– a financial institution, bank Â– the edge of a river).
 what is a synonym=Synonyms are words with similar meanings.
 what is an antonym=Antonyms are words with opposite meanings.
 what is a thesaurus=A thesaurus is a book or electronic resource that lists synonyms and antonyms for words.
@@ -315,13 +315,13 @@ what is a simile=A simile is a figure of speech that compares two unlike things 
 what is personification=Personification is a figure of speech that gives human qualities to non-human things.
 what is irony=Irony is a figure of speech where the intended meaning is different from the literal meaning.
 what is an idiom=An idiom is a phrase with a figurative meaning that cannot be understood from the individual words.
-what is a cliche=A cliché is an overused expression or idea.
+what is a cliche=A clichÃ© is an overused expression or idea.
 what is a dangling modifier=A dangling modifier is a phrase or clause that doesnt clearly modify any specific word in the sentence.
 what is a misplaced modifier=A misplaced modifier is a word or phrase that is placed too far away from the word it modifies, causing confusion.
 what is subject-verb agreement=Subject-verb agreement means that the subject and verb of a sentence must agree in number (singular or plural).
 what is pronoun-antecedent agreement=Pronoun-antecedent agreement means that a pronoun must agree in number and gender with the noun it refers to.
-what is a homophone=Homophones are words that sound the same but have different meanings and spellings (e.g., their, there, they’re).
-what is a homonym=Homonyms are words that have the same spelling but different meanings (e.g., bank – a financial institution, bank – the edge of a river).
+what is a homophone=Homophones are words that sound the same but have different meanings and spellings (e.g., their, there, theyÂ’re).
+what is a homonym=Homonyms are words that have the same spelling but different meanings (e.g., bank Â– a financial institution, bank Â– the edge of a river).
 what is a synonym=Synonyms are words with similar meanings.
 what is an antonym=Antonyms are words with opposite meanings.
 what is a thesaurus=A thesaurus is a book or electronic resource that lists synonyms and antonyms for words.
@@ -336,13 +336,13 @@ what is a simile=A simile is a figure of speech that compares two unlike things 
 what is personification=Personification is a figure of speech that gives human qualities to non-human things.
 what is irony=Irony is a figure of speech where the intended meaning is different from the literal meaning.
 what is an idiom=An idiom is a phrase with a figurative meaning that cannot be understood from the individual words.
-what is a cliche=A cliché is an overused expression or idea.
+what is a cliche=A clichÃ© is an overused expression or idea.
 what is a dangling modifier=A dangling modifier is a phrase or clause that doesnt clearly modify any specific word in the sentence.
 what is a misplaced modifier=A misplaced modifier is a word or phrase that is placed too far away from the word it modifies, causing confusion.
 what is subject-verb agreement=Subject-verb agreement means that the subject and verb of a sentence must agree in number (singular or plural).
 what is pronoun-antecedent agreement=Pronoun-antecedent agreement means that a pronoun must agree in number and gender with the noun it refers to.
-what is a homophone=Homophones are words that sound the same but have different meanings and spellings (e.g., their, there, they’re).
-what is a homonym=Homonyms are words that have the same spelling but different meanings (e.g., bank – a financial institution, bank – the edge of a river).
+what is a homophone=Homophones are words that sound the same but have different meanings and spellings (e.g., their, there, theyÂ’re).
+what is a homonym=Homonyms are words that have the same spelling but different meanings (e.g., bank Â– a financial institution, bank Â– the edge of a river).
 what is a synonym=Synonyms are words with similar meanings.
 what is an antonym=Antonyms are words with opposite meanings.
 what is a thesaurus=A thesaurus is a book or electronic resource that lists synonyms and antonyms for words.
@@ -361,24 +361,24 @@ what are elements in robotics=The main elements in robotics are sensors, actuato
 what are the basic elements in robotics=The basic elements in robotics include conductors, insulators, current, voltage, and resistance. Conductors allow current to pass easily, insulators do not, current is the flow of electrons, voltage is the force that moves electrons, and resistance opposes the flow of electrons.
 what is ac/dc=AC stands for alternating current, which changes in magnitude and direction over time, commonly used in homes. DC stands for direct current, which has a constant magnitude and direction, mainly used in cells and batteries.
 what is a robot=A robot is a machine designed to execute one or more tasks automatically with speed and precision. Robots are used in a variety of applications, from manufacturing to healthcare.
-how does a robot work=Robots work using a combination of mechanical systems, sensors, and software. The mechanical systems include motors and actuators that perform tasks, sensors collect data from the environment, and software processes this data to control the robot’s actions.
-what is an actuator=An actuator is a component of a robot that converts electrical signals into physical movement. Actuators are used to control the robot’s limbs or other moving parts.
-what is a sensor=A sensor is a device that detects and measures physical properties from the environment, such as light, temperature, or distance. Sensors provide input to the robot’s control system to make decisions or adjust its actions.
+how does a robot work=Robots work using a combination of mechanical systems, sensors, and software. The mechanical systems include motors and actuators that perform tasks, sensors collect data from the environment, and software processes this data to control the robotÂ’s actions.
+what is an actuator=An actuator is a component of a robot that converts electrical signals into physical movement. Actuators are used to control the robotÂ’s limbs or other moving parts.
+what is a sensor=A sensor is a device that detects and measures physical properties from the environment, such as light, temperature, or distance. Sensors provide input to the robotÂ’s control system to make decisions or adjust its actions.
 what is a robot controller=A robot controller is a device that directs the actions of a robot. It processes the inputs from sensors and sends commands to the actuators to perform tasks.
 what is a robot arm=A robot arm is a type of robotic manipulator that mimics the functionality of a human arm. It is used for tasks such as assembly, welding, and packaging.
-what is the role of software in robotics=Software in robotics controls the robot’s actions by processing data from sensors and issuing commands to actuators. It defines the robot’s behavior and enables it to perform complex tasks.
+what is the role of software in robotics=Software in robotics controls the robotÂ’s actions by processing data from sensors and issuing commands to actuators. It defines the robotÂ’s behavior and enables it to perform complex tasks.
 what are common types of robots=Common types of robots include industrial robots, service robots, medical robots, and educational robots. Each type serves different purposes and operates in various environments.
 what is a humanoid robot=A humanoid robot is a robot designed to resemble the human body in form and function. It can perform tasks similar to those of a human and is often used in research and customer service.
 how are robots used in healthcare=In healthcare, robots are used for surgeries, rehabilitation, and patient care. They assist surgeons with precision, help in physical therapy, and provide companionship or monitoring for patients.
 what is the difference between autonomous and remote-controlled robots=Autonomous robots can perform tasks and make decisions on their own using sensors and software. Remote-controlled robots require human operators to control their actions through a remote interface.
-what is a robot’s end effector=An end effector is the part of a robot that interacts with the environment to perform tasks. Examples include grippers, welding torches, or tools used in manufacturing processes.
+what is a robotÂ’s end effector=An end effector is the part of a robot that interacts with the environment to perform tasks. Examples include grippers, welding torches, or tools used in manufacturing processes.
 what are the benefits of robotics=Robotics offers benefits such as increased efficiency, precision, and safety in various industries. Robots can handle repetitive or dangerous tasks, improving productivity and reducing human error.
 what are the challenges in robotics=Challenges in robotics include high development costs, complexity in design and programming, and limitations in robot adaptability and intelligence. Ensuring robots can operate safely and effectively in diverse environments is also a key challenge.
 what is robot vision=Robot vision refers to the ability of robots to interpret and understand visual information from cameras or sensors. It is used for tasks such as object recognition, navigation, and quality inspection.
-what is a robot’s feedback system=A robot’s feedback system provides information about the robot’s performance and environment. It helps the robot adjust its actions based on real-time data from sensors and actuators.
+what is a robotÂ’s feedback system=A robotÂ’s feedback system provides information about the robotÂ’s performance and environment. It helps the robot adjust its actions based on real-time data from sensors and actuators.
 what are the components of a robot=The main components of a robot include sensors, actuators, controllers, and a power source. Sensors gather data from the environment, actuators perform actions, controllers process information, and the power source provides energy for operation.
 how do robots learn=Robots learn through algorithms and programming techniques such as machine learning and artificial intelligence. They improve their performance by processing data and adapting their behavior based on experiences.
-what is robot programming=Robot programming involves writing code to control a robot’s actions and behaviors. It includes defining tasks, configuring sensors and actuators, and setting up the robot’s response to different conditions.
+what is robot programming=Robot programming involves writing code to control a robotÂ’s actions and behaviors. It includes defining tasks, configuring sensors and actuators, and setting up the robotÂ’s response to different conditions.
 what is an industrial robot=An industrial robot is a robot used in manufacturing and industrial environments to perform tasks such as welding, assembly, and material handling. These robots are designed for high precision and efficiency.
 what is a service robot=A service robot is designed to assist humans in various everyday tasks, such as cleaning, delivery, or customer service. They are commonly used in homes, hospitals, and public places.
 what is a medical robot=A medical robot is used in healthcare settings to perform surgeries, assist in rehabilitation, or support patient care. These robots enhance precision and improve outcomes in medical procedures.
@@ -388,7 +388,7 @@ what is robot swarm=A robot swarm refers to a group of robots that work together
 what is a collaborative robot=A collaborative robot, or cobot, is designed to work alongside humans in a shared workspace. Cobots are equipped with safety features and can perform tasks in close proximity to human workers without requiring safety cages.
 what is robot ethics=Robot ethics involves the study of moral and ethical issues related to the development and use of robots. It addresses concerns such as privacy, safety, and the impact of robots on society and employment.
 what is the future of robotics=The future of robotics includes advancements in artificial intelligence, increased autonomy, and more widespread use across various industries. We can expect robots to become more integrated into daily life, performing complex tasks and collaborating with humans in new ways.
-how are robots powered=Robots are powered by various sources, including batteries, electrical power, and hydraulic systems. The choice of power source depends on the robot’s design, purpose, and operating environment.
+how are robots powered=Robots are powered by various sources, including batteries, electrical power, and hydraulic systems. The choice of power source depends on the robotÂ’s design, purpose, and operating environment.
 what is mohenjodaro=Mohenjo-daro was a major city of the ancient Indus Valley Civilization, located in modern-day Pakistan.
 when was mohenjodaro built=The construction of Mohenjo-daro is estimated to have begun around 2600 BCE.
 what was found in mohenjodaro=Mohenjo-daro has yielded remarkable artifacts, including seals, weights, jewelry, and evidence of advanced urban planning.
@@ -684,7 +684,7 @@ What is the function of the heart? = The function of the heart is to pump blood 
 What is the speed of sound? = The speed of sound in air is approximately 343 meters per second at room temperature.
 Who was the first President of the United States? = The first President of the United States was George Washington.
 What is the internet? = The internet is a global network of interconnected computers that allows users to share and access information from anywhere in the world.
-What is 48 laws of power = It is a book wrote by Robert Greene. Readed it it is very boring. I recommend don’t read it.
+What is 48 laws of power = It is a book wrote by Robert Greene. Readed it it is very boring. I recommend donÂ’t read it.
 What is the Milky Way? = The Milky Way is the galaxy that contains our solar system, characterized by its spiral structure and numerous stars.
 What is gravity? = Gravity is the force that attracts two bodies toward each other, commonly experienced as the force that gives weight to physical objects and causes them to fall to the ground.
 Who discovered penicillin? = Penicillin was discovered by Alexander Fleming in 1928.
@@ -713,7 +713,7 @@ Who invented the World Wide Web? = The World Wide Web was invented by Tim Berner
 What is the longest river in the world? = The longest river in the world is the Nile River in Africa.
 What is the largest animal on Earth? = The largest animal on Earth is the blue whale.
 What is the capital of Canada? = The capital of Canada is Ottawa.
-What is the formula for calculating the area of a circle? = The formula for calculating the area of a circle is A = ?r², where A is the area and r is the radius of the circle.
+What is the formula for calculating the area of a circle? = The formula for calculating the area of a circle is A = ?rÂ², where A is the area and r is the radius of the circle.
 Who was the first man in space? = The first man in space was Yuri Gagarin, a Soviet astronaut, in 1961.
 What is the function of red blood cells? = The function of red blood cells is to carry oxygen from the lungs to the rest of the body and return carbon dioxide to the lungs for exhalation.
 What is the most abundant gas in Earth's atmosphere? = The most abundant gas in Earth's atmosphere is nitrogen, making up about 78%.
@@ -770,7 +770,7 @@ Who was the first Emperor of China? = The first Emperor of China was Qin Shi Hua
 What is a galaxy? = A galaxy is a massive system of stars, stellar remnants, gas, dust, and dark matter bound together by gravity, with the Milky Way being an example.
 What is the formula for force in physics? = The formula for force in physics is F = ma, where F is force, m is mass, and a is acceleration.
 What is the capital of Spain? = The capital of Spain is Madrid.
-Who was the first woman to win the Nobel Prize in Literature? = The first woman to win the Nobel Prize in Literature was Selma Lagerlöf in 1909.
+Who was the first woman to win the Nobel Prize in Literature? = The first woman to win the Nobel Prize in Literature was Selma LagerlÃ¶f in 1909.
 What is the primary function of white blood cells? = The primary function of white blood cells is to protect the body against infections and foreign invaders.
 What is the largest volcano in the solar system? = The largest volcano in the solar system is Olympus Mons on Mars.
 What is the capital of India? = The capital of India is New Delhi.
@@ -781,7 +781,7 @@ What is the capital of South Korea? = The capital of South Korea is Seoul.
 Who was the first woman to fly solo across the Atlantic Ocean? = The first woman to fly solo across the Atlantic Ocean was Amelia Earhart in 1932.
 What is the function of mitochondria? = Mitochondria are known as the powerhouse of the cell because they generate most of the cell's supply of energy.
 Who developed the polio vaccine? = The polio vaccine was developed by Dr. Jonas Salk in 1955.
-What is the capital of Brazil? = The capital of Brazil is Brasília.
+What is the capital of Brazil? = The capital of Brazil is BrasÃ­lia.
 Who was the first human to walk on the moon? = The first human to walk on the moon was Neil Armstrong on July 20, 1969.
 What is the capital of Argentina? = The capital of Argentina is Buenos Aires.
 What is a comet? = A comet is a celestial object composed of ice, dust, and rocky material that orbits the Sun and, when close enough, displays a visible coma or tail.
@@ -825,11 +825,11 @@ What is the capital of Russia? = The capital of Russia is Moscow.
 What is a DNA molecule? = A DNA molecule is a double-stranded helix that carries the genetic instructions for the development, functioning, growth, and reproduction of all known living organisms.
 What is the capital of the United States? = The capital of the United States is Washington, D.C.
 Who developed the first vaccine for smallpox? = The first vaccine for smallpox was developed by Edward Jenner in 1796.
-What is the capital of Brazil? = The capital of Brazil is Brasília.
+What is the capital of Brazil? = The capital of Brazil is BrasÃ­lia.
 Who developed the theory of electromagnetism? = The theory of electromagnetism was developed by James Clerk Maxwell.
 What is the capital of India? = The capital of India is New Delhi.
 What is a black hole? = A black hole is a region of space where gravity is so strong that nothing, not even light, can escape from it.
-Who developed the theory of quantum mechanics? = The theory of quantum mechanics was developed by multiple scientists, including Max Planck, Albert Einstein, Niels Bohr, Werner Heisenberg, and Erwin Schrödinger.
+Who developed the theory of quantum mechanics? = The theory of quantum mechanics was developed by multiple scientists, including Max Planck, Albert Einstein, Niels Bohr, Werner Heisenberg, and Erwin SchrÃ¶dinger.
 What is the capital of China? = The capital of China is Beijing.
 Who developed the theory of plate tectonics? = The theory of plate tectonics was developed by Alfred Wegener.
 What is the capital of Egypt? = The capital of Egypt is Cairo.
@@ -843,162 +843,58 @@ What is the capital of Greece? = The capital of Greece is Athens.
 What is the speed of light? = The speed of light in a vacuum is approximately 299,792 kilometers per second (186,282 miles per second).
 Who developed the theory of electromagnetism? = The theory of electromagnetism was developed by James Clerk Maxwell.
 What is the capital of Japan? = The capital of Japan is Tokyo.
-Who developed the theory of quantum mechanics? = The theory of quantum mechanics was developed by multiple scientists, including Max Planck, Albert Einstein, Niels Bohr, Werner Heisenberg, and Erwin Schrödinger.
+Who developed the theory of quantum mechanics? = The theory of quantum mechanics was developed by multiple scientists, including Max Planck, Albert Einstein, Niels Bohr, Werner Heisenberg, and Erwin SchrÃ¶dinger.
 What is the capital of Germany? = The capital of Germany is Berlin.
 Who developed the theory of relativity? = The theory of relativity was developed by Albert Enistin.
-What is the capital of Australia?  
-= Canberra  
-
-What is the tallest mountain in Africa?  
-= Mount Kilimanjaro  
-
-What is the deepest lake in the world?  
-= Lake Baikal  
-
-What is the longest river in North America?  
-= Mackenzie River  
-
-What is the driest place on Earth?  
-= Atacama Desert  
-
-What is the highest waterfall in the world?  
-= Angel Falls  
-
-What is the largest island in the world?  
-= Greenland  
-
-What is the largest city in the world by population?  
-= Tokyo  
-
-What is the smallest country in Europe?  
-= Vatican City  
-
-What is the official language of India?  
-= Hindi and English  
-
-What is the highest mountain peak in India?  
-= Kangchenjunga  
-
-What is the longest river in India?  
-= Ganges River  
-
-What is the largest state in India by area?  
-= Rajasthan  
-
-What is the most populous state in India?  
-= Uttar Pradesh  
-
-What is the capital of India?  
-= New Delhi  
-
-What is the national bird of India?  
-= Peacock  
-
-What is the national flower of India?  
-= Lotus  
-
-What is the national animal of India?  
-= Tiger  
-
-What is the official language of the United Nations?  
-= English, French, Spanish, Russian, Chinese, Arabic  
-
-What is the currency of the United States?  
-= United States Dollar  
-
-What is the capital of France?  
-= Paris  
-
-What is the largest country in Africa?  
-= Algeria  
-
-What is the smallest country in Asia?  
-= Vatican City  
-
-What is the highest mountain in North America?  
-= Denali  
-
-What is the deepest lake in Africa?  
-= Lake Tanganyika  
-
-What is the longest river in South America?  
-= Amazon River  
-
-What is the driest place on Earth?  
-= Atacama Desert  
-
-What is the highest waterfall in the world?  
-= Angel Falls  
-
-What is the largest island in the world?  
-= Greenland  
-
-What is the largest city in the world by population?  
-= Tokyo  
-
-What is the smallest country in Europe?  
-= Vatican City  
-
-What is the official language of India?  
-= Hindi and English  
-
-What is the highest mountain peak in India?  
-= Kangchenjunga  
-
-What is the longest river in India?  
-= Ganges River  
-
-What is the largest state in India by area?  
-= Rajasthan  
-
-What is the most populous state in India?  
-= Uttar Pradesh  
-
-What is the capital of India?  
-= New Delhi  
-
-What is the national bird of India?  
-= Peacock  
-
-What is the national flower of India?  
-= Lotus  
-
-What is the national animal of India?  
-= Tiger  
-
-What is the official language of the United Nations?  
-= English, French, Spanish, Russian, Chinese, Arabic  
-
-What is the currency of the United States?  
-= United States Dollar  
-
-What is the capital of France?  
-= Paris  
-
-What is the largest country in Africa?  
-= Algeria  
-
-What is the smallest country in Asia?  
-= Vatican City  
-
-What is the highest mountain in North America?  
-= Denali  
-
-What is the deepest lake in Africa?  
-= Lake Tanganyika  
-
-What is the longest river in South America?  
-= Amazon River  
-
-What is the driest place on Earth?  
-= Atacama Desert  
-
-What is the highest waterfall in the world?  
-= Angel Falls  
-
-What is the largest island in the world?  
-= Greenland  
-
-What is the largest city in the world by population?  
-= Tokyo  
-
+What is the capital of Australia?= Canberra
+What is the tallest mountain in Africa?= Mount Kilimanjaro
+What is the deepest lake in the world?= Lake Baikal
+What is the longest river in North America?= Mackenzie River
+What is the driest place on Earth?= Atacama Desert
+What is the highest waterfall in the world?= Angel Falls
+What is the largest island in the world?= Greenland
+What is the largest city in the world by population?= Tokyo
+What is the smallest country in Europe?= Vatican City
+What is the official language of India?= Hindi and English
+What is the highest mountain peak in India?= Kangchenjunga
+What is the longest river in India?= Ganges River
+What is the largest state in India by area?= Rajasthan
+What is the most populous state in India?= Uttar Pradesh
+What is the capital of India?= New Delhi
+What is the national bird of India?= Peacock
+What is the national flower of India?= Lotus
+What is the national animal of India?= Tiger
+What is the official language of the United Nations?= English, French, Spanish, Russian, Chinese, Arabic
+What is the currency of the United States?= United States Dollar
+What is the capital of France?= Paris
+What is the largest country in Africa?= Algeria
+What is the mallest country in Asia?= Vatican City
+What is the highest mountain in North America?= Denali
+What is the deepest lake in Africa?= Lake Tanganyika
+What is the longest river in South America?= Amazon River
+What is the driest place on Earth?= Atacama Desert
+What is the highest waterfall in the world?= Angel Falls
+What is the largest island in the world?= Greenland
+What is the largest city in the world by population?= Tokyo
+What is the smallest country in Europe?= Vatican City
+What is the official language of India?= Hindi and English
+What is the highest mountain peak in India?= Kangchenjunga
+What is the longest river in India?= Ganges River
+What is the largest state in India by area?= Rajasthan
+What is the most populous state in India?= Uttar Pradesh
+What is the capital of India?= New Delhi
+What is the national bird of India?= Peacock
+What is the national flower of India?= Lotus
+What is the national animal of India?= Tiger
+What is the official language of the United Nations?= English, French, Spanish, Russian, Chinese, Arabic
+What is the currency of the United States? = United States Dollar
+What is the capital of France? = Paris
+What is the largest country in Africa? = Algeria
+What is the smallest country in Asia? = Vatican City
+What is the highest mountain in North America? =  Denali
+What is the deepest lake in Africa? = Lake Tanganyika
+What is the longest river in South America? =  Amazon River
+What is the driest place on Earth? =  Atacama Desert
+What is the highest waterfall in the world? = Angel Falls
+What is the largest island in the world? = Greenland
+What is the largest city in the world by population? = Tokyo
